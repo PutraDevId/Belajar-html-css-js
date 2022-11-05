@@ -1,0 +1,17 @@
+body {
+    color: rgba(146, 159, 172, 0.979);
+}
+
+a {
+    text-decoration: none;
+    color: aqua;
+    list-style-type: none;
+}
+
+form {
+    text-transform: capitalize;
+}
+
+.header {
+    position: fixed;
+}
